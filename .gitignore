@@ -1,1 +1,2 @@
-*.FCStd*
+*.[Ff][Cc][Ss][Tt][Dd]*
+!*.[Ff][Cc][Ss][Tt][Dd]
